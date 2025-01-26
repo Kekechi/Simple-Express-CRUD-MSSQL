@@ -1,0 +1,2 @@
+# Simple-Express-CRUD-MSSQL
+In this project, I developed a Simple Express CRUD application using Microsoft SQL Server, where I set up a local SQL server and built an Express.js backend. Designed and implemented RESTful APIs to handle CRUD operations, enabling the creation, management, and interaction with a to-do list application. This project demonstrated my ability to integrate database management with backend development and effectively process API calls for data operations.
